@@ -1,0 +1,3225 @@
+[
+  {
+    "id": "9eb938eb-0a22-4d89-b535-44b5ba4c566a",
+    "name": "Aasra",
+    "part_of_country": "west",
+    "phone_numbers": [
+      "+912227546669"
+    ],
+    "timing": {
+      "description": "24 x 7",
+      "slots": {
+        "0": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "1": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "2": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "3": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "4": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "5": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "6": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        }
+      }
+    },
+    "mode_of_contact": [
+      "phone",
+      "letter",
+      "face-to-face"
+    ],
+    "address": {
+      "street": "104, Sunrise Arcade, Plot No. 100, Sector 16, Koparkhairane",
+      "city": "Navi Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "pin_code": "400709",
+      "lat": 19.0997612,
+      "lon": 72.9966718,
+      "map_url": "https://www.google.co.in/maps/place/Aasra/@19.0997612,72.9966718,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7c0d42bf0bdb1:0xc98c49d16b36d7f2!8m2!3d19.0997612!4d72.9988605"
+    },
+    "emails": [
+      "aasrahelpline@yahoo.com"
+    ],
+    "websites": [
+      "http://www.aasra.info/"
+    ],
+    "befrienders_member": true,
+    "verified": true,
+    "auto_call": true
+  },
+  {
+    "id": "ce181e7e-8412-4d5c-9917-c61cbda2829a",
+    "name": "The Cyrus and Priya Vandrevala Foundation",
+    "part_of_country": "west",
+    "phone_numbers": [
+      "18602662345",
+      "18002333330"
+    ],
+    "timing": {
+      "description": "24 x 7",
+      "slots": {
+        "0": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "1": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "2": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "3": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "4": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "5": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "6": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        }
+      }
+    },
+    "mode_of_contact": [
+      "phone",
+      "email",
+      "face-to-face"
+    ],
+    "address": {
+      "street": "501, A Wing, Supreme Business Park, Powai",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "pin_code": "400076",
+      "lat": 19.1112043,
+      "lon": 72.9065169,
+      "map_url": "https://www.google.co.in/maps/place/Supreme+Business+Park,+Kensington+Rear+Exit+Road,+Hiranandani+Gardens,+Powai,+Mumbai,+Maharashtra+400076/@19.1112043,72.9065169,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7c7e78eca04a5:0xa2c969ebcbc5d4cc!8m2!3d19.1113422!4d72.9083873"
+    },
+    "emails": [
+      "help@vandrevalafoundation.com"
+    ],
+    "websites": [
+      "http://vandrevalafoundation.com/"
+    ],
+    "befrienders_member": false,
+    "verified": true,
+    "auto_call": true
+  },
+  {
+    "id": "36780661-49c0-4b62-bf5a-917ddc0053b7",
+    "name": "iCALL Psychosocial Helpline",
+    "part_of_country": "west",
+    "phone_numbers": [
+      "+912225521111"
+    ],
+    "timing": {
+      "description": "Mon - Sat: 8am - 10pm",
+      "slots": {
+        "0": null,
+        "1": {
+          "start": "08:00:00",
+          "end": "22:00:00"
+        },
+        "2": {
+          "start": "08:00:00",
+          "end": "22:00:00"
+        },
+        "3": {
+          "start": "08:00:00",
+          "end": "22:00:00"
+        },
+        "4": {
+          "start": "08:00:00",
+          "end": "22:00:00"
+        },
+        "5": {
+          "start": "08:00:00",
+          "end": "22:00:00"
+        },
+        "6": {
+          "start": "08:00:00",
+          "end": "22:00:00"
+        }
+      }
+    },
+    "mode_of_contact": [
+      "phone",
+      "email"
+    ],
+    "address": {
+      "street": "Tata Institute of Social Sciences, V N Purav Marg, Deonar",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "pin_code": "400088",
+      "lat": 19.045317,
+      "lon": 72.9101573,
+      "map_url": "https://www.google.co.in/maps/place/Tata+Institute+Of+Social+Sciences/@19.045317,72.9101573,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7c608f591996b:0x69dbb7e2f00ee03c!8m2!3d19.045317!4d72.912346"
+    },
+    "emails": [
+      "icall@tiss.edu"
+    ],
+    "websites": [
+      "http://icallhelpline.org/"
+    ],
+    "befrienders_member": false,
+    "verified": true,
+    "auto_call": true
+  },
+  {
+    "id": "a13f880c-04f2-42a2-a845-3e444fa0d734",
+    "name": "Samaritans Mumbai",
+    "part_of_country": "west",
+    "phone_numbers": [
+      "+912264643267",
+      "+912265653267",
+      "+912265653247"
+    ],
+    "timing": {
+      "description": "Daily: 3pm - 9pm",
+      "slots": {
+        "0": {
+          "start": "15:00:00",
+          "end": "21:00:00"
+        },
+        "1": {
+          "start": "15:00:00",
+          "end": "21:00:00"
+        },
+        "2": {
+          "start": "15:00:00",
+          "end": "21:00:00"
+        },
+        "3": {
+          "start": "15:00:00",
+          "end": "21:00:00"
+        },
+        "4": {
+          "start": "15:00:00",
+          "end": "21:00:00"
+        },
+        "5": {
+          "start": "15:00:00",
+          "end": "21:00:00"
+        },
+        "6": {
+          "start": "15:00:00",
+          "end": "21:00:00"
+        }
+      }
+    },
+    "mode_of_contact": [
+      "phone",
+      "email",
+      "letter",
+      "face-to-face"
+    ],
+    "address": {
+      "street": "402, Jasmine Apartments, Dadasaheb Phalke Road, Dadar East",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "pin_code": "400014",
+      "lat": 19.0150463,
+      "lon": 72.8404279,
+      "map_url": "https://www.google.co.in/maps/place/Samaritans+Mumbai/@19.0150463,72.8404279,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7cedda3c368c7:0x8b6d76d126f7fd9d!8m2!3d19.0150463!4d72.8426166"
+    },
+    "emails": [
+      "samaritans.helpline@gmail.com"
+    ],
+    "websites": [
+      "http://samaritansmumbai.com/"
+    ],
+    "befrienders_member": true,
+    "verified": true,
+    "auto_call": true
+  },
+  {
+    "id": "49935e8c-a686-4c1a-a776-fa97870e4d8d",
+    "name": "Maitra Helpline",
+    "part_of_country": "west",
+    "phone_numbers": [
+      "+912225385447"
+    ],
+    "timing": {
+      "description": "Mon - Sat: 9am - 9pm",
+      "slots": {
+        "0": null,
+        "1": {
+          "start": "09:00:00",
+          "end": "21:00:00"
+        },
+        "2": {
+          "start": "09:00:00",
+          "end": "21:00:00"
+        },
+        "3": {
+          "start": "09:00:00",
+          "end": "21:00:00"
+        },
+        "4": {
+          "start": "09:00:00",
+          "end": "21:00:00"
+        },
+        "5": {
+          "start": "09:00:00",
+          "end": "21:00:00"
+        },
+        "6": {
+          "start": "09:00:00",
+          "end": "21:00:00"
+        }
+      }
+    },
+    "mode_of_contact": [
+      "phone",
+      "email",
+      "face-to-face"
+    ],
+    "address": {
+      "street": "Institute of Psychological Health, 9th Floor, Shree Ganesh Darshan, LBS Marg, Naupada",
+      "city": "Thane",
+      "state": "Maharashtra",
+      "country": "India",
+      "pin_code": "400602",
+      "lat": 19.1914683,
+      "lon": 72.9666387,
+      "map_url": "https://www.google.co.in/maps/place/IPH+Thane/@19.1914683,72.9666387,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7b918b2ed7841:0x9825978b90249835!8m2!3d19.1914683!4d72.9688274?hl=en"
+    },
+    "emails": [
+      "maitra@healthymind.org"
+    ],
+    "websites": [
+      "http://www.healthymind.org"
+    ],
+    "befrienders_member": false,
+    "verified": true,
+    "auto_call": true
+  },
+  {
+    "id": "8de83b63-6827-46ca-bf40-4dc67cbaac24",
+    "name": "Connecting NGO",
+    "part_of_country": "west",
+    "phone_numbers": [
+      "18002094353",
+      "+919922001122"
+    ],
+    "timing": {
+      "description": "Daily: 2pm - 8pm",
+      "slots": {
+        "0": {
+          "start": "14:00:00",
+          "end": "20:00:00"
+        },
+        "1": {
+          "start": "14:00:00",
+          "end": "20:00:00"
+        },
+        "2": {
+          "start": "14:00:00",
+          "end": "20:00:00"
+        },
+        "3": {
+          "start": "14:00:00",
+          "end": "20:00:00"
+        },
+        "4": {
+          "start": "14:00:00",
+          "end": "20:00:00"
+        },
+        "5": {
+          "start": "14:00:00",
+          "end": "20:00:00"
+        },
+        "6": {
+          "start": "14:00:00",
+          "end": "20:00:00"
+        }
+      }
+    },
+    "mode_of_contact": [
+      "phone",
+      "email"
+    ],
+    "address": {
+      "street": "Atur Chambers, 2nd Floor, Above Coffee House, Opp SGS Mall, Moledina Road",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "country": "India",
+      "pin_code": "411001",
+      "lat": 18.518442,
+      "lon": 73.878512,
+      "map_url": "https://www.google.co.in/maps/place/Atur+Chambers,+Ambedkar+Wellesly+Rd,+Camp,+Pune,+Maharashtra+411001/@18.5188866,73.8750289,17z/data=!3m1!4b1!4m5!3m4!1s0x3bc2c04ff5789315:0x1987435710264da0!8m2!3d18.5188932!4d73.877236?hl=en"
+    },
+    "emails": [
+      "connectingngo@gmail.com"
+    ],
+    "websites": [
+      "http://connectingngo.org/"
+    ],
+    "befrienders_member": true,
+    "verified": true,
+    "auto_call": true
+  },
+  {
+    "id": "c84e3d82-2a9c-4ce4-b898-4008b5afbdc4",
+    "name": "104 Health Advice Call Centre",
+    "part_of_country": "west",
+    "phone_numbers": [
+      "104"
+    ],
+    "timing": {
+      "description": "24 x 7",
+      "slots": {
+        "0": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "1": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "2": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "3": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "4": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "5": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "6": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        }
+      }
+    },
+    "mode_of_contact": [
+      "phone"
+    ],
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "Maharashtra",
+      "country": "India",
+      "pin_code": "",
+      "lat": 18.7719335,
+      "lon": 72.2755886,
+      "map_url": "https://www.google.co.in/maps/place/Maharashtra/@18.7719335,72.2755886,6z/data=!3m1!4b1!4m5!3m4!1s0x3bcfc41e9c9cd6f9:0x1b2f22924be04fb6!8m2!3d19.7514798!4d75.7138884"
+    },
+    "emails": [],
+    "websites": [
+      "https://www.nrhm.maharashtra.gov.in/Health%20Advice%20Call%20Centre.pdf"
+    ],
+    "befrienders_member": false,
+    "verified": true,
+    "auto_call": true
+  },
+  {
+    "id": "21834cb9-3eef-4587-ad62-4824f75d4c59",
+    "name": "Gujarat State Helpline - Suraksha Setu Scheme",
+    "part_of_country": "west",
+    "phone_numbers": [
+      "18602662345",
+      "+912616554050"
+    ],
+    "timing": {
+      "description": "24 x 7",
+      "slots": {
+        "0": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "1": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "2": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "3": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "4": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "5": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "6": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        }
+      }
+    },
+    "mode_of_contact": [
+      "phone",
+      "email"
+    ],
+    "address": {
+      "street": "",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "country": "India",
+      "pin_code": "",
+      "lat": 23.0204978,
+      "lon": 72.4396536,
+      "map_url": "https://www.google.co.in/maps/place/Ahmedabad,+Gujarat/@23.0204978,72.4396536,11z/data=!3m1!4b1!4m5!3m4!1s0x395e848aba5bd449:0x4fcedd11614f6516!8m2!3d23.022505!4d72.5713621"
+    },
+    "emails": [
+      "help@vandrevalafoundation.com"
+    ],
+    "websites": [
+      "http://vandrevalafoundation.com/newspdf/Say%20NO%20to%20suicides%20-%20Gujarat%20Government%20launches%20HELPLINE.pdf"
+    ],
+    "befrienders_member": false,
+    "verified": true,
+    "auto_call": true
+  },
+  {
+    "id": "18548af3-d353-4b90-98ba-1cdf2df854f7",
+    "name": "Saath",
+    "part_of_country": "west",
+    "phone_numbers": [
+      "+917926305544",
+      "+917926300222"
+    ],
+    "timing": {
+      "description": "Daily: 1pm - 7pm",
+      "slots": {
+        "0": {
+          "start": "13:00:00",
+          "end": "19:00:00"
+        },
+        "1": {
+          "start": "13:00:00",
+          "end": "19:00:00"
+        },
+        "2": {
+          "start": "13:00:00",
+          "end": "19:00:00"
+        },
+        "3": {
+          "start": "13:00:00",
+          "end": "19:00:00"
+        },
+        "4": {
+          "start": "13:00:00",
+          "end": "19:00:00"
+        },
+        "5": {
+          "start": "13:00:00",
+          "end": "19:00:00"
+        },
+        "6": {
+          "start": "13:00:00",
+          "end": "19:00:00"
+        }
+      }
+    },
+    "mode_of_contact": [
+      "phone",
+      "email",
+      "letter",
+      "face-to-face"
+    ],
+    "address": {
+      "street": "B­12 Nilamber Complex, H.L. Commerce College Road, Navrangpura",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "country": "India",
+      "pin_code": "380009",
+      "lat": 23.0380384,
+      "lon": 72.5534162,
+      "map_url": "https://www.google.co.in/maps/place/Saath+Suicide+Prevention+Centre/@23.0380384,72.5534162,17z/data=!3m1!4b1!4m5!3m4!1s0x395e84f53fffffff:0x78d095758fb2deb8!8m2!3d23.0380335!4d72.5556049"
+    },
+    "emails": [
+      "saath12@yahoo.com"
+    ],
+    "websites": [
+      "http://www.saathindia.org/"
+    ],
+    "befrienders_member": true,
+    "verified": false,
+    "auto_call": true
+  },
+  {
+    "id": "a38a3de8-ce70-481b-b4ae-86cb3ab9a6b2",
+    "name": "COOJ Listening Helpline",
+    "part_of_country": "west",
+    "phone_numbers": [
+      "+918322252525"
+    ],
+    "timing": {
+      "description": "Mon - Fri: 3pm - 7pm",
+      "slots": {
+        "0": null,
+        "1": {
+          "start": "15:00:00",
+          "end": "19:00:00"
+        },
+        "2": {
+          "start": "15:00:00",
+          "end": "19:00:00"
+        },
+        "3": {
+          "start": "15:00:00",
+          "end": "19:00:00"
+        },
+        "4": {
+          "start": "15:00:00",
+          "end": "19:00:00"
+        },
+        "5": {
+          "start": "15:00:00",
+          "end": "19:00:00"
+        },
+        "6": null
+      }
+    },
+    "mode_of_contact": [
+      "phone",
+      "face-to-face"
+    ],
+    "address": {
+      "street": "H. No. 7A-738, Near St. Cajethan Church, Mano Shanti, Boa Vista, Mapusa, Bastora",
+      "city": "Mapusa",
+      "state": "Goa",
+      "country": "India",
+      "pin_code": "403507",
+      "lat": 15.5791622,
+      "lon": 73.8262693,
+      "map_url": "https://www.google.co.in/maps/place/COOJ+Mental+Health+Foundation/@15.5791622,73.8262693,17z/data=!3m1!4b1!4m5!3m4!1s0x3bbfeac5dc4932a7:0x5baae018ba2de6ce!8m2!3d15.579157!4d73.828458"
+    },
+    "emails": [
+      "youmatterbycooj@gmail.com"
+    ],
+    "websites": [
+      "http://www.cooj.co.in"
+    ],
+    "befrienders_member": true,
+    "verified": true,
+    "auto_call": true
+  },
+  {
+    "id": "8342b923-a91e-43f7-b63f-0b15dc203620",
+    "name": "One Life",
+    "part_of_country": "south",
+    "phone_numbers": [
+      "+917893078930",
+      "+919849215195"
+    ],
+    "timing": {
+      "description": "24 x 7",
+      "slots": {
+        "0": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "1": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "2": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "3": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "4": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "5": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "6": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        }
+      }
+    },
+    "mode_of_contact": [
+      "phone",
+      "video-calls",
+      "tele-conferencing"
+    ],
+    "address": {
+      "street": "Apple Bee School, 265/B, Road Number 10A, Jubilee Hills",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "country": "India",
+      "pin_code": "500033",
+      "lat": 17.3960549,
+      "lon": 78.4541784,
+      "map_url": "https://www.google.co.in/maps/place/OneLife/@17.3960549,78.4541784,17z/data=!3m1!4b1!4m5!3m4!1s0x3bcb976c6bffffff:0x8a63c91ccd3fe46f!8m2!3d17.3960549!4d78.4563671"
+    },
+    "emails": [
+      "support@1life.org.in"
+    ],
+    "websites": [
+      "http://1life.org.in"
+    ],
+    "befrienders_member": false,
+    "verified": true,
+    "auto_call": true
+  },
+  {
+    "id": "8ad5f61e-f844-42b0-a7e1-b827ba8fa156",
+    "name": "SPAN - Suicide Prevention Action Network",
+    "part_of_country": "south",
+    "phone_numbers": [
+      "+917207308383"
+    ],
+    "timing": {
+      "description": "24 x 7",
+      "slots": {
+        "0": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "1": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "2": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "3": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "4": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "5": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "6": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        }
+      }
+    },
+    "mode_of_contact": [
+      "phone",
+      "face-to-face"
+    ],
+    "address": {
+      "street": "2-3-578/1, Kachi Colony, Minister Road, Besides KIMS Hospital",
+      "city": "Secunderabad",
+      "state": "Telangana",
+      "country": "India",
+      "pin_code": "500003",
+      "lat": 17.4359962,
+      "lon": 78.4810124,
+      "map_url": "https://www.google.co.in/maps/place/Chetana+Hospital/@17.4359962,78.4810124,17z/data=!3m1!4b1!4m5!3m4!1s0x3bcb9a0450ec1d9d:0x3578fe1359b898b5!8m2!3d17.4359962!4d78.4832011"
+    },
+    "emails": [
+      "spantrust16@gmail.com"
+    ],
+    "websites": [
+      "http://spanindia.weebly.com/"
+    ],
+    "befrienders_member": false,
+    "verified": true,
+    "auto_call": true
+  },
+  {
+    "id": "a307513b-bae3-400c-a4e8-eb9929b462e7",
+    "name": "Roshni",
+    "part_of_country": "south",
+    "phone_numbers": [
+      "+9140­66202000",
+      "+9140­66202001"
+    ],
+    "timing": {
+      "description": "Mon - Sat: 11am - 9 pm",
+      "slots": {
+        "0": null,
+        "1": {
+          "start": "11:00:00",
+          "end": "21:00:00"
+        },
+        "2": {
+          "start": "11:00:00",
+          "end": "21:00:00"
+        },
+        "3": {
+          "start": "11:00:00",
+          "end": "21:00:00"
+        },
+        "4": {
+          "start": "11:00:00",
+          "end": "21:00:00"
+        },
+        "5": {
+          "start": "11:00:00",
+          "end": "21:00:00"
+        },
+        "6": {
+          "start": "11:00:00",
+          "end": "21:00:00"
+        }
+      }
+    },
+    "mode_of_contact": [
+      "phone",
+      "email",
+      "letter",
+      "face-to-face"
+    ],
+    "address": {
+      "street": "1­-8-­303/48/21, Kalavathy Nivas, Sindhi Colony, S.P.Road",
+      "city": "Secunderabad",
+      "state": "Telangana",
+      "country": "India",
+      "pin_code": "500003",
+      "lat": 17.442106,
+      "lon": 78.4774233,
+      "map_url": "https://www.google.co.in/maps/place/Roshni/@17.442106,78.4774233,17z/data=!3m1!4b1!4m5!3m4!1s0x3bcb9a0ebfe1d8f7:0x2e3a372777b435!8m2!3d17.442106!4d78.479612"
+    },
+    "emails": [
+      "roshnihelp@gmail.com"
+    ],
+    "websites": [
+      "http://roshnitrusthyd.org/"
+    ],
+    "befrienders_member": true,
+    "verified": true,
+    "auto_call": true
+  },
+  {
+    "id": "c5317257-3ab9-4469-8d73-ab7104ab77a0",
+    "name": "Makro Foundation - Suicide Prevention Helpdesk",
+    "part_of_country": "south",
+    "phone_numbers": [
+      "+914046004600"
+    ],
+    "timing": {
+      "description": "Mon - Fri: 10am - 7pm",
+      "slots": {
+        "0": null,
+        "1": {
+          "start": "10:00:00",
+          "end": "19:00:00"
+        },
+        "2": {
+          "start": "10:00:00",
+          "end": "19:00:00"
+        },
+        "3": {
+          "start": "10:00:00",
+          "end": "19:00:00"
+        },
+        "4": {
+          "start": "10:00:00",
+          "end": "19:00:00"
+        },
+        "5": {
+          "start": "10:00:00",
+          "end": "19:00:00"
+        },
+        "6": null
+      }
+    },
+    "mode_of_contact": [
+      "phone",
+      "face-to-face"
+    ],
+    "address": {
+      "street": "#1-65/2/256, Makro Towers, Kavuri Hills, Madhapur",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "country": "India",
+      "pin_code": "500033",
+      "lat": 17.4388429,
+      "lon": 78.3927656,
+      "map_url": "https://www.google.co.in/maps/place/Makro+Foundation/@17.4388429,78.3927656,17z/data=!3m1!4b1!4m5!3m4!1s0x3bcb915b48615555:0xcb34b51433e11b7a!8m2!3d17.4388429!4d78.3949543"
+    },
+    "emails": [
+      "info@makrofoundation.org"
+    ],
+    "websites": [
+      "http://www.suicidehelpdesk.org/"
+    ],
+    "befrienders_member": false,
+    "verified": true,
+    "auto_call": true
+  },
+  {
+    "id": "f9039740-235d-454a-a819-00250f0266b0",
+    "name": "Darshika",
+    "part_of_country": "south",
+    "phone_numbers": [
+      "+914027755506",
+      "+914027755505"
+    ],
+    "timing": {
+      "description": "",
+      "slots": {
+        "0": null,
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null
+      }
+    },
+    "mode_of_contact": [
+      "phone"
+    ],
+    "address": {
+      "street": "Flat A-2, RK Residency, Mahatma Nagar, Hasmatpet Road, Old Bowenpally",
+      "city": "Secunderabad",
+      "state": "Telangana",
+      "country": "India",
+      "pin_code": "500009",
+      "lat": 17.469275,
+      "lon": 78.485415,
+      "map_url": "https://www.google.com/maps/@17.469275,78.485415,21z?hl=en-US"
+    },
+    "emails": [
+      "darshikahelp@gmail.com"
+    ],
+    "websites": [
+      "http://www.darshika.org/"
+    ],
+    "befrienders_member": true,
+    "verified": false,
+    "auto_call": false
+  },
+  {
+    "id": "de331660-14c9-48de-ab5c-317bdcf5dcb7",
+    "name": "104 Sevakendram",
+    "part_of_country": "south",
+    "phone_numbers": [
+      "104"
+    ],
+    "timing": {
+      "description": "24 x 7",
+      "slots": {
+        "0": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "1": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "2": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "3": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "4": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "5": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "6": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        }
+      }
+    },
+    "mode_of_contact": [
+      "phone"
+    ],
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "Telangana",
+      "country": "India",
+      "pin_code": "",
+      "lat": 17.8631868,
+      "lon": 77.0279548,
+      "map_url": "https://www.google.co.in/maps/place/Telangana/@17.8631868,77.0279548,7z/data=!3m1!4b1!4m5!3m4!1s0x3a3350db9429ed43:0x63ef7ba741594059!8m2!3d18.1124372!4d79.0192997"
+    },
+    "emails": [],
+    "websites": [
+      "http://aarogyasri.telangana.gov.in/documents/10181/13460/104+Sevakendram+SOP+(T.G).pdf/ca268ba8-f7b3-4c7d-beb5-8bef1b7bddef"
+    ],
+    "befrienders_member": false,
+    "verified": true,
+    "auto_call": true
+  },
+  {
+    "id": "61364921-9f55-4778-9d93-9da48f6955dd",
+    "name": "YUVA Helpline",
+    "part_of_country": "south",
+    "phone_numbers": [
+      "+919880396331"
+    ],
+    "timing": {
+      "description": "24 x 7",
+      "slots": {
+        "0": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "1": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "2": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "3": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "4": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "5": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "6": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        }
+      }
+    },
+    "mode_of_contact": [
+      "phone",
+      "face-to-face"
+    ],
+    "address": {
+      "street": "Samudra Foundation, # 77, 'Anugraha', 1st Floor,13th cross, Sampige Road, Malleswaram",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "pin_code": "560003",
+      "lat": 13.0035725,
+      "lon": 77.5685486,
+      "map_url": "https://www.google.co.in/maps/place/Sa-Mudra+Foundation/@13.0035725,77.5685486,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae1631d6bd2c11:0x443a73a75321b75d!8m2!3d13.0035725!4d77.5707373"
+    },
+    "emails": [],
+    "websites": [
+      "http://sa-mudra.org/vina/index.php/2016-03-01-08-23-05/24-x-7-yuva-helpline"
+    ],
+    "befrienders_member": false,
+    "verified": true,
+    "auto_call": true
+  },
+  {
+    "id": "d1ed340a-90e2-4a8a-a344-8b2edb433fd2",
+    "name": "SAHAI",
+    "part_of_country": "south",
+    "phone_numbers": [
+      "+918025497777"
+    ],
+    "timing": {
+      "description": "Mon - Sat: 10am - 8pm",
+      "slots": {
+        "0": null,
+        "1": {
+          "start": "10:00:00",
+          "end": "20:00:00"
+        },
+        "2": {
+          "start": "10:00:00",
+          "end": "20:00:00"
+        },
+        "3": {
+          "start": "10:00:00",
+          "end": "20:00:00"
+        },
+        "4": {
+          "start": "10:00:00",
+          "end": "20:00:00"
+        },
+        "5": {
+          "start": "10:00:00",
+          "end": "20:00:00"
+        },
+        "6": {
+          "start": "10:00:00",
+          "end": "20:00:00"
+        }
+      }
+    },
+    "mode_of_contact": [
+      "phone",
+      "email"
+    ],
+    "address": {
+      "street": "47 Pottery Road, Frazer Town",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "pin_code": "560005",
+      "lat": 13.001108,
+      "lon": 77.619462,
+      "map_url": "https://www.google.com/maps/place/Medico+Pastoral+Association/@13.001108,77.619462,15z/data=!4m5!3m4!1s0x0:0x76495d58f5bd6831!8m2!3d13.001108!4d77.6194623?hl=en-US"
+    },
+    "emails": [
+      "sahaihelpline@gmail.com"
+    ],
+    "websites": [
+      "http://sahaihelpline.org/"
+    ],
+    "befrienders_member": false,
+    "verified": true,
+    "auto_call": true
+  },
+  {
+    "id": "e9c8955c-8a88-4b7d-934f-0a9737c8a2df",
+    "name": "Parivarthan Counselling Helpline",
+    "part_of_country": "south",
+    "phone_numbers": [
+      "+917676602602"
+    ],
+    "timing": {
+      "description": "Mon - Fri: 4pm - 10pm",
+      "slots": {
+        "0": null,
+        "1": {
+          "start": "16:00:00",
+          "end": "22:00:00"
+        },
+        "2": {
+          "start": "16:00:00",
+          "end": "22:00:00"
+        },
+        "3": {
+          "start": "16:00:00",
+          "end": "22:00:00"
+        },
+        "4": {
+          "start": "16:00:00",
+          "end": "22:00:00"
+        },
+        "5": {
+          "start": "16:00:00",
+          "end": "22:00:00"
+        },
+        "6": null
+      }
+    },
+    "mode_of_contact": [
+      "phone"
+    ],
+    "address": {
+      "street": "1st Floor, #3310, 8th Cross, 13th Main, HAL 2nd Stage",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "pin_code": "560008",
+      "lat": 12.9685432,
+      "lon": 77.6356048,
+      "map_url": "https://www.google.co.in/maps/place/Parivarthan+Counselling+Training+and+Research+Centre/@12.9685432,77.6356048,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae16a9d64f51c7:0x4387c8219cbbe907!8m2!3d12.9685432!4d77.6377935"
+    },
+    "emails": [
+      "parivarthanblr@gmail.com"
+    ],
+    "websites": [
+      "http://www.parivarthan.org/"
+    ],
+    "befrienders_member": false,
+    "verified": true,
+    "auto_call": true
+  },
+  {
+    "id": "08858ce8-ff4c-46ec-8924-cad80e206f06",
+    "name": "104 Arogyavani",
+    "part_of_country": "south",
+    "phone_numbers": [
+      "104"
+    ],
+    "timing": {
+      "description": "24 x 7",
+      "slots": {
+        "0": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "1": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "2": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "3": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "4": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "5": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "6": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        }
+      }
+    },
+    "mode_of_contact": [
+      "phone"
+    ],
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "Karnataka",
+      "country": "India",
+      "pin_code": "",
+      "lat": 14.9730697,
+      "lon": 71.8188468,
+      "map_url": "https://www.google.co.in/maps/place/Karnataka/@14.9730697,71.8188468,6z/data=!3m1!4b1!4m5!3m4!1s0x3ba35a4c37bf488f:0x41f1d28cd1757cd5!8m2!3d15.3172775!4d75.7138884"
+    },
+    "emails": [],
+    "websites": [],
+    "befrienders_member": false,
+    "verified": true,
+    "auto_call": true
+  },
+  {
+    "id": "9695e832-51a0-401d-a326-957bcf315d2c",
+    "name": "Sneha India",
+    "part_of_country": "south",
+    "phone_numbers": [
+      "+914424640050"
+    ],
+    "timing": {
+      "description": "24 x 7",
+      "slots": {
+        "0": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "1": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "2": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "3": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "4": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "5": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "6": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        }
+      }
+    },
+    "mode_of_contact": [
+      "phone",
+      "email",
+      "letter",
+      "face-to-face"
+    ],
+    "address": {
+      "street": "11, Park View Road, R.A. Puram",
+      "city": "Chennai",
+      "state": "Tamilnadu",
+      "country": "India",
+      "pin_code": "600028",
+      "lat": 13.0221775,
+      "lon": 80.2562902,
+      "map_url": "https://www.google.co.in/maps/place/Sneha+Suicide+Prevention+Centre/@13.0221775,80.2562902,17z/data=!3m1!4b1!4m5!3m4!1s0x3a52663bd82518d9:0x2c9386f90781135b!8m2!3d13.0221775!4d80.2584789"
+    },
+    "emails": [
+      "help@snehaindia.org"
+    ],
+    "websites": [
+      "http://www.snehaindia.org/index.php"
+    ],
+    "befrienders_member": true,
+    "verified": true,
+    "auto_call": true
+  },
+  {
+    "id": "7e879823-d6cc-4cb0-9890-7b2a2fb6e9ac",
+    "name": "Jeevan",
+    "part_of_country": "south",
+    "phone_numbers": [
+      "+914426564444"
+    ],
+    "timing": {
+      "description": "24 x 7",
+      "slots": {
+        "0": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "1": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "2": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "3": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "4": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "5": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "6": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        }
+      }
+    },
+    "mode_of_contact": [
+      "phone",
+      "face-to-face"
+    ],
+    "address": {
+      "street": "No.171, Ambika street, Golden George Nagar, Nerkundram",
+      "city": "Chennai",
+      "state": "Tamilnadu",
+      "country": "India",
+      "pin_code": "600107",
+      "lat": 13.0690757,
+      "lon": 80.1867127,
+      "map_url": "https://www.google.co.in/maps/place/Jeevan+Suicide+Prevention+Hotline/@13.0690757,80.1867127,17z/data=!3m1!4b1!4m5!3m4!1s0x3a52615448fe2471:0xd57aeccf7e2044f3!8m2!3d13.0690757!4d80.1889014"
+    },
+    "emails": [
+      "jeevancenter@yahoo.com"
+    ],
+    "websites": [
+      "http://www.ywamsuicideprevention.org/index.html"
+    ],
+    "befrienders_member": false,
+    "verified": true,
+    "auto_call": true
+  },
+  {
+    "id": "e78284e7-2ed8-4de7-a91c-1024a0085278",
+    "name": "104 Medical Helpline",
+    "part_of_country": "south",
+    "phone_numbers": [
+      "104"
+    ],
+    "timing": {
+      "description": "24 x 7",
+      "slots": {
+        "0": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "1": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "2": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "3": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "4": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "5": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "6": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        }
+      }
+    },
+    "mode_of_contact": [
+      "phone"
+    ],
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "Tamilnadu",
+      "country": "India",
+      "pin_code": "",
+      "lat": 10.7747541,
+      "lon": 76.0435238,
+      "map_url": "https://www.google.co.in/maps/place/Tamil+Nadu/@10.7747541,76.0435238,7z/data=!3m1!4b1!4m5!3m4!1s0x3b00c582b1189633:0x559475cc463361f0!8m2!3d11.1271225!4d78.6568942"
+    },
+    "emails": [],
+    "websites": [],
+    "befrienders_member": false,
+    "verified": true,
+    "auto_call": true
+  },
+  {
+    "id": "ec356acb-667b-44d2-990f-dcb072ba9bf0",
+    "name": "Maitreyi",
+    "part_of_country": "south",
+    "phone_numbers": [
+      "+914132339999"
+    ],
+    "timing": {
+      "description": "Daily: 2pm - 8pm",
+      "slots": {
+        "0": {
+          "start": "14:00:00",
+          "end": "20:00:00"
+        },
+        "1": {
+          "start": "14:00:00",
+          "end": "20:00:00"
+        },
+        "2": {
+          "start": "14:00:00",
+          "end": "20:00:00"
+        },
+        "3": {
+          "start": "14:00:00",
+          "end": "20:00:00"
+        },
+        "4": {
+          "start": "14:00:00",
+          "end": "20:00:00"
+        },
+        "5": {
+          "start": "14:00:00",
+          "end": "20:00:00"
+        },
+        "6": {
+          "start": "14:00:00",
+          "end": "20:00:00"
+        }
+      }
+    },
+    "mode_of_contact": [
+      "phone",
+      "email",
+      "letter",
+      "face-to-face"
+    ],
+    "address": {
+      "street": "225, Thiyagamudaliar Street",
+      "city": "Pondicherry",
+      "state": "Pondicherry",
+      "country": "India",
+      "pin_code": "605001",
+      "lat": 11.9360426,
+      "lon": 79.8245889,
+      "map_url": "https://www.google.co.in/maps/place/225,+Thiyagamudaliar+St,+MG+Road+Area,+Puducherry,+605001/@11.9360426,79.8245889,17z/data=!3m1!4b1!4m5!3m4!1s0x3a53617ef7f31b7d:0xf73a666f454d4413!8m2!3d11.9360426!4d79.8267776"
+    },
+    "emails": [
+      "admin@maitreyi.org.in"
+    ],
+    "websites": [
+      "http://maitreyi.kumarmahi.com/"
+    ],
+    "befrienders_member": true,
+    "verified": true,
+    "auto_call": true
+  },
+  {
+    "id": "6b55ad0a-d710-4b5d-a961-6ef382351e22",
+    "name": "Maithri­ Kochi",
+    "part_of_country": "south",
+    "phone_numbers": [
+      "+914842540530"
+    ],
+    "timing": {
+      "description": "Daily: 10am - 7 pm, After SSC Results: 24 x 7",
+      "slots": {
+        "0": {
+          "start": "10:00:00",
+          "end": "19:00:00"
+        },
+        "1": {
+          "start": "10:00:00",
+          "end": "19:00:00"
+        },
+        "2": {
+          "start": "10:00:00",
+          "end": "19:00:00"
+        },
+        "3": {
+          "start": "10:00:00",
+          "end": "19:00:00"
+        },
+        "4": {
+          "start": "10:00:00",
+          "end": "19:00:00"
+        },
+        "5": {
+          "start": "10:00:00",
+          "end": "19:00:00"
+        },
+        "6": {
+          "start": "10:00:00",
+          "end": "19:00:00"
+        }
+      }
+    },
+    "mode_of_contact": [
+      "phone",
+      "email",
+      "letter",
+      "face-to-face"
+    ],
+    "address": {
+      "street": "Institute for Counselling & Transactional Analysis, Shantigram, Changampuzha Nagar (P.O.), Kalamassery",
+      "city": "Kochi",
+      "state": "Kerala",
+      "country": "India",
+      "pin_code": "682033",
+      "lat": 10.040706,
+      "lon": 76.3145923,
+      "map_url": "https://www.google.co.in/maps/place/Institute+for+Counselling+and+Transactional+Analysis/@10.040706,76.3145923,17z/data=!3m1!4b1!4m5!3m4!1s0x3b080dcaaf13eeb3:0xe7e6377dd70614fe!8m2!3d10.040706!4d76.316781"
+    },
+    "emails": [
+      "maithrihelp@gmail.com",
+      "maithrikochi@gmail.com"
+    ],
+    "websites": [
+      "http://maithrikochin.org/home.htm"
+    ],
+    "befrienders_member": true,
+    "verified": true,
+    "auto_call": true
+  },
+  {
+    "id": "a9f1eabd-2323-4e87-91d7-ce2853eb1a5d",
+    "name": "Maithri­ Thrissur",
+    "part_of_country": "south",
+    "phone_numbers": [
+      "+914872330300"
+    ],
+    "timing": {
+      "description": "Mon - Sat: 1pm - 5pm; Sun: 11am - 7pm",
+      "slots": {
+        "0": {
+          "start": "11:00:00",
+          "end": "19:00:00"
+        },
+        "1": {
+          "start": "13:00:00",
+          "end": "17:00:00"
+        },
+        "2": {
+          "start": "13:00:00",
+          "end": "17:00:00"
+        },
+        "3": {
+          "start": "13:00:00",
+          "end": "17:00:00"
+        },
+        "4": {
+          "start": "13:00:00",
+          "end": "17:00:00"
+        },
+        "5": {
+          "start": "13:00:00",
+          "end": "17:00:00"
+        },
+        "6": {
+          "start": "13:00:00",
+          "end": "17:00:00"
+        }
+      }
+    },
+    "mode_of_contact": [
+      "phone",
+      "email",
+      "face-to-face"
+    ],
+    "address": {
+      "street": "Kuriakose Elias Service Society (KESS) Bhavan, 1st Floor, Naikkanal",
+      "city": "Thrissur",
+      "state": "Kerala",
+      "country": "India",
+      "pin_code": "680001",
+      "lat": 10.5267248,
+      "lon": 76.2096782,
+      "map_url": "https://www.google.co.in/maps/place/Kuriakose+Elias+Service+Society/@10.5267248,76.2096782,17z/data=!3m1!4b1!4m5!3m4!1s0x3ba7ee456d0690ef:0xacfe981c7aabf90!8m2!3d10.5267248!4d76.2118669"
+    },
+    "emails": [
+      "befrienders@gmail.com"
+    ],
+    "websites": [],
+    "befrienders_member": false,
+    "verified": false,
+    "auto_call": true
+  },
+  {
+    "id": "8537599a-4903-4e12-ab2e-11e5188f358b",
+    "name": "Pratheeksha",
+    "part_of_country": "south",
+    "phone_numbers": [
+      "+914842448830"
+    ],
+    "timing": {
+      "description": "Daily: 10am - 6pm",
+      "slots": {
+        "0": {
+          "start": "10:00:00",
+          "end": "18:00:00"
+        },
+        "1": {
+          "start": "10:00:00",
+          "end": "18:00:00"
+        },
+        "2": {
+          "start": "10:00:00",
+          "end": "18:00:00"
+        },
+        "3": {
+          "start": "10:00:00",
+          "end": "18:00:00"
+        },
+        "4": {
+          "start": "10:00:00",
+          "end": "18:00:00"
+        },
+        "5": {
+          "start": "10:00:00",
+          "end": "18:00:00"
+        },
+        "6": {
+          "start": "10:00:00",
+          "end": "18:00:00"
+        }
+      }
+    },
+    "mode_of_contact": [
+      "phone",
+      "letter",
+      "face-to-face"
+    ],
+    "address": {
+      "street": "Kesari Road, Ambadi Lane, North Paravur",
+      "city": "Ernakulam",
+      "state": "Kerala",
+      "country": "India",
+      "pin_code": "683513",
+      "lat": 10.1444246,
+      "lon": 76.2219571,
+      "map_url": "https://www.google.co.in/maps/place/Pratheeksha+Counselling+Centre/@10.1444246,76.2219571,15z/data=!4m8!1m2!2m1!1spratheeksha,+north+paravur!3m4!1s0x3b0810790ed5446d:0x91ee3a01771b821e!8m2!3d10.1424706!4d76.2330617"
+    },
+    "emails": [
+      "directorpratheeksha@gmail.com"
+    ],
+    "websites": [],
+    "befrienders_member": true,
+    "verified": true,
+    "auto_call": true
+  },
+  {
+    "id": "8fa633f0-8834-4201-a621-e2166405ead1",
+    "name": "Prathyasa",
+    "part_of_country": "south",
+    "phone_numbers": [
+      "+914802820091"
+    ],
+    "timing": {
+      "description": "",
+      "slots": {
+        "0": null,
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null
+      }
+    },
+    "mode_of_contact": [
+      "phone",
+      "letter",
+      "face-to-face"
+    ],
+    "address": {
+      "street": "Vidya Jothi, Cathedral Junction",
+      "city": "Irinjalakuda",
+      "state": "Kerala",
+      "country": "India",
+      "pin_code": "680685",
+      "lat": 10.3443785,
+      "lon": 76.2139467,
+      "map_url": "https://www.google.co.in/maps/place/Vidyajyothi+Catechetical+Centre/@10.3443785,76.2139467,17z/data=!3m1!4b1!4m5!3m4!1s0x3ba7f649b27cd5d1:0x8b001fccdc0e0651!8m2!3d10.3443785!4d76.2161354"
+    },
+    "emails": [],
+    "websites": [],
+    "befrienders_member": false,
+    "verified": false,
+    "auto_call": false
+  },
+  {
+    "id": "a1ead8ae-5ffe-4bb8-8882-65413fb2443e",
+    "name": "Sanjeevani",
+    "part_of_country": "south",
+    "phone_numbers": [
+      "+914712533900"
+    ],
+    "timing": {
+      "description": "Mon - Sat: 1pm - 5pm",
+      "slots": {
+        "0": {
+          "start": "13:00:00",
+          "end": "17:00:00"
+        },
+        "1": {
+          "start": "13:00:00",
+          "end": "17:00:00"
+        },
+        "2": {
+          "start": "13:00:00",
+          "end": "17:00:00"
+        },
+        "3": {
+          "start": "13:00:00",
+          "end": "17:00:00"
+        },
+        "4": {
+          "start": "13:00:00",
+          "end": "17:00:00"
+        },
+        "5": {
+          "start": "13:00:00",
+          "end": "17:00:00"
+        },
+        "6": {
+          "start": "13:00:00",
+          "end": "17:00:00"
+        }
+      }
+    },
+    "mode_of_contact": [
+      "phone",
+      "face-to-face"
+    ],
+    "address": {
+      "street": "PRA242A, Vengal Nagar, Parottukonam, Nalanchira",
+      "city": "Thiruvananthapuram",
+      "state": "Kerala",
+      "country": "India",
+      "pin_code": "695015",
+      "lat": 8.5393808,
+      "lon": 76.9383424,
+      "map_url": "https://www.google.co.in/maps/place/Nalanchira+Rd,+Tilak+Nagar,+Parottukonam,+Thiruvananthapuram,+Kerala+695015/@8.5393808,76.9383424,17z/data=!3m1!4b1!4m5!3m4!1s0x3b05b942707287d9:0x276c0c6ea695988b!8m2!3d8.5393808!4d76.9405311"
+    },
+    "emails": [
+      "sanjeevanitrivandrum@gmail.com"
+    ],
+    "websites": [],
+    "befrienders_member": true,
+    "verified": true,
+    "auto_call": true
+  },
+  {
+    "id": "75d5b591-6643-4ad2-b28e-c320a0cda44c",
+    "name": "Thanal Suicide Prevention Centre",
+    "part_of_country": "south",
+    "phone_numbers": [
+      "+914952760000"
+    ],
+    "timing": {
+      "description": "Daily: 10am – 6pm",
+      "slots": {
+        "0": {
+          "start": "10:00:00",
+          "end": "18:00:00"
+        },
+        "1": {
+          "start": "10:00:00",
+          "end": "18:00:00"
+        },
+        "2": {
+          "start": "10:00:00",
+          "end": "18:00:00"
+        },
+        "3": {
+          "start": "10:00:00",
+          "end": "18:00:00"
+        },
+        "4": {
+          "start": "10:00:00",
+          "end": "18:00:00"
+        },
+        "5": {
+          "start": "10:00:00",
+          "end": "18:00:00"
+        },
+        "6": {
+          "start": "10:00:00",
+          "end": "18:00:00"
+        }
+      }
+    },
+    "mode_of_contact": [
+      "phone",
+      "email",
+      "letter",
+      "face-to-face"
+    ],
+    "address": {
+      "street": "6/153 E, Abdu Sons Building, Near Malabar Christian College, Kannur Road,",
+      "city": "Kozhikode",
+      "state": "Kerala",
+      "country": "India",
+      "pin_code": "673011",
+      "lat": 11.2602739,
+      "lon": 75.7796345,
+      "map_url": "https://www.google.co.in/maps/place/Thanal+Charitable+Organisation/@11.2602739,75.7796345,16z/data=!4m8!1m2!2m1!1sThanal,+Nadakkave,+Kozhikode!3m4!1s0x3ba65933f2c74609:0x8c45cbdc9f0e1afa!8m2!3d11.2648309!4d75.7772969"
+    },
+    "emails": [
+      "thanal.calicut@gmail.com"
+    ],
+    "websites": [],
+    "befrienders_member": true,
+    "verified": true,
+    "auto_call": true
+  },
+  {
+    "id": "90b5890b-aca2-4dbe-b10b-56331eca6c24",
+    "name": "1056 - DISHA Health Helpline",
+    "part_of_country": "south",
+    "phone_numbers": [
+      "1056"
+    ],
+    "timing": {
+      "description": "24 x 7",
+      "slots": {
+        "0": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "1": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "2": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "3": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "4": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "5": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "6": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        }
+      }
+    },
+    "mode_of_contact": [
+      "phone"
+    ],
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "Kerala",
+      "country": "India",
+      "pin_code": "",
+      "lat": 10.5327208,
+      "lon": 73.8833344,
+      "map_url": "https://www.google.co.in/maps/place/Kerala/@10.5327208,73.8833344,7z/data=!3m1!4b1!4m5!3m4!1s0x3b0812ffd49cf55b:0x64bd90fbed387c99!8m2!3d10.8505159!4d76.2710833"
+    },
+    "emails": [
+      "info@disha1056.com"
+    ],
+    "websites": [
+      "http://disha1056.com/"
+    ],
+    "befrienders_member": false,
+    "verified": true,
+    "auto_call": true
+  },
+  {
+    "id": "1524f9e4-2c8a-4ab4-91aa-b8447f25d1fa",
+    "name": "Lifeline Foundation",
+    "part_of_country": "east",
+    "phone_numbers": [
+      "+913324637401",
+      "+913324637432"
+    ],
+    "timing": {
+      "description": "24 x 7",
+      "slots": {
+        "0": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "1": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "2": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "3": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "4": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "5": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "6": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        }
+      }
+    },
+    "mode_of_contact": [
+      "phone",
+      "face-to-face"
+    ],
+    "address": {
+      "street": "28/B, Lake Avenue, Kalighat, Near Rajendranath Vidyabhavan",
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "country": "India",
+      "pin_code": "700026",
+      "lat": 22.5111514,
+      "lon": 88.3472347,
+      "map_url": "https://www.google.co.in/maps/place/RAJENDRA+NATH+VIDYABHAVAN/@22.5111514,88.3472347,20z/data=!4m5!3m4!1s0x3a0270cbec6fbf23:0xbb6ae3dc29de2714!8m2!3d22.511367!4d88.3473514"
+    },
+    "emails": [
+      "reach@lifelinekolkata.org",
+      "lifelinekolkata@gmail.com"
+    ],
+    "websites": [
+      "http://www.lifelinekolkata.org"
+    ],
+    "befrienders_member": true,
+    "verified": false,
+    "auto_call": true
+  },
+  {
+    "id": "9c4fd9d5-e2ea-435d-9403-71b840583241",
+    "name": "NIBS Helpline",
+    "part_of_country": "east",
+    "phone_numbers": [
+      "+913322865603",
+      "+913332575411",
+      "+919836401234"
+    ],
+    "timing": {
+      "description": "Mon - Fri: 6pm - 10pm",
+      "slots": {
+        "0": null,
+        "1": {
+          "start": "18:00:00",
+          "end": "22:00:00"
+        },
+        "2": {
+          "start": "18:00:00",
+          "end": "22:00:00"
+        },
+        "3": {
+          "start": "18:00:00",
+          "end": "22:00:00"
+        },
+        "4": {
+          "start": "18:00:00",
+          "end": "22:00:00"
+        },
+        "5": {
+          "start": "18:00:00",
+          "end": "22:00:00"
+        },
+        "6": null
+      }
+    },
+    "mode_of_contact": [
+      "phone",
+      "face-to-face"
+    ],
+    "address": {
+      "street": "7 & 8 C.I.T. Road, Over Senco Mega Shop, Moulali, Sealdah, Raja Bazar",
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "country": "India",
+      "pin_code": "700014",
+      "lat": 22.5604401,
+      "lon": 88.3657012,
+      "map_url": "https://www.google.co.in/maps/place/National+Institute+of+Behavioural+Sciences/@22.5604401,88.3657012,17z/data=!3m1!4b1!4m5!3m4!1s0x3a0276f92db42a0f:0x1a246f2ead84757c!8m2!3d22.5604401!4d88.3678899"
+    },
+    "emails": [
+      "nibskolkata@gmail.com"
+    ],
+    "websites": [
+      "http://www.nibsindia.org/index.html"
+    ],
+    "befrienders_member": false,
+    "verified": false,
+    "auto_call": true
+  },
+  {
+    "id": "05f9afca-9dd3-42c0-981d-94bfea8ad195",
+    "name": "Jeevan Suicide Prevention Centre",
+    "part_of_country": "east",
+    "phone_numbers": [
+      "+91657­6453841",
+      "+916576555555"
+    ],
+    "timing": {
+      "description": "Daily: 10am - 6pm",
+      "slots": {
+        "0": {
+          "start": "10:00:00",
+          "end": "18:00:00"
+        },
+        "1": {
+          "start": "10:00:00",
+          "end": "18:00:00"
+        },
+        "2": {
+          "start": "10:00:00",
+          "end": "18:00:00"
+        },
+        "3": {
+          "start": "10:00:00",
+          "end": "18:00:00"
+        },
+        "4": {
+          "start": "10:00:00",
+          "end": "18:00:00"
+        },
+        "5": {
+          "start": "10:00:00",
+          "end": "18:00:00"
+        },
+        "6": {
+          "start": "10:00:00",
+          "end": "18:00:00"
+        }
+      }
+    },
+    "mode_of_contact": [
+      "phone"
+    ],
+    "address": {
+      "street": "25,Q Road, Bistupur",
+      "city": "Jamshedpur",
+      "state": "Jharkhand",
+      "country": "India",
+      "pin_code": "831001",
+      "lat": 22.7897122,
+      "lon": 86.1780537,
+      "map_url": "https://www.google.co.in/maps/place/Q+Rd,+South+Park,+Bistupur,+Jamshedpur,+Jharkhand+831001/@22.7897122,86.1780537,17z/data=!3m1!4b1!4m5!3m4!1s0x39f5e3606da60487:0x602f9cbb1b61920e!8m2!3d22.7897122!4d86.1802424"
+    },
+    "emails": [
+      "jeevanjamshedpur@gmail.com"
+    ],
+    "websites": [
+      "http://jeevanhelplinesuicideprevention.blogspot.in/"
+    ],
+    "befrienders_member": true,
+    "verified": true,
+    "auto_call": true
+  },
+  {
+    "id": "87954e58-f7c1-454d-b5b3-cd24d33dc2d6",
+    "name": "Umang Helpline",
+    "part_of_country": "east",
+    "phone_numbers": [
+      "+916512451058"
+    ],
+    "timing": {
+      "description": "",
+      "slots": {
+        "0": null,
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null
+      }
+    },
+    "mode_of_contact": [
+      "phone",
+      "face-to-face"
+    ],
+    "address": {
+      "street": "Ranchi Institute of Neuro-Psychiatry & Allied Sciences (RINPAS), Kanke",
+      "city": "Ranchi",
+      "state": "Jharkhand",
+      "country": "India",
+      "pin_code": "834006",
+      "lat": 23.4335299,
+      "lon": 85.3112763,
+      "map_url": "https://www.google.co.in/maps/place/Ranchi+Institute+of+Neuro-Psychiatry+%26+Allied+Sciences/@23.4335299,85.3112763,17z/data=!3m1!4b1!4m5!3m4!1s0x39f4e6ddc022bced:0x29fe92b68eb654d5!8m2!3d23.4335299!4d85.313465"
+    },
+    "emails": [],
+    "websites": [
+      "http://www.rinpas.nic.in/index.html"
+    ],
+    "befrienders_member": false,
+    "verified": false,
+    "auto_call": false
+  },
+  {
+    "id": "134dddec-a42a-44b7-8721-9862fd78c264",
+    "name": "104 Chikitsa Salah",
+    "part_of_country": "east",
+    "phone_numbers": [
+      "104"
+    ],
+    "timing": {
+      "description": "24 x 7",
+      "slots": {
+        "0": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "1": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "2": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "3": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "4": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "5": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "6": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        }
+      }
+    },
+    "mode_of_contact": [
+      "phone"
+    ],
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "Jharkhand",
+      "country": "India",
+      "pin_code": "",
+      "lat": 23.6347215,
+      "lon": 83.3911372,
+      "map_url": "https://www.google.co.in/maps/place/Jharkhand/@23.6347215,83.3911372,7z/data=!3m1!4b1!4m5!3m4!1s0x398b2386df480857:0x62c5b809eee29004!8m2!3d23.6101808!4d85.2799354"
+    },
+    "emails": [],
+    "websites": [],
+    "befrienders_member": false,
+    "verified": false,
+    "auto_call": true
+  },
+  {
+    "id": "29a65e4e-5f84-476c-8a52-e5f741833ca1",
+    "name": "104 Health Helpline",
+    "part_of_country": "east",
+    "phone_numbers": [
+      "104"
+    ],
+    "timing": {
+      "description": "24 x 7",
+      "slots": {
+        "0": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "1": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "2": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "3": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "4": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "5": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "6": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        }
+      }
+    },
+    "mode_of_contact": [
+      "phone"
+    ],
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "Odisha",
+      "country": "India",
+      "pin_code": "",
+      "lat": 20.1767613,
+      "lon": 82.1912163,
+      "map_url": "https://www.google.co.in/maps/place/Odisha/@20.1767613,82.1912163,7z/data=!3m1!4b1!4m5!3m4!1s0x3a226aece9af3bfd:0x133625caa9cea81f!8m2!3d20.9516658!4d85.0985236"
+    },
+    "emails": [],
+    "websites": [],
+    "befrienders_member": false,
+    "verified": false,
+    "auto_call": true
+  },
+  {
+    "id": "5a4d89ae-e7d0-4310-88de-37749459afe4",
+    "name": "104 Sarathi",
+    "part_of_country": "east",
+    "phone_numbers": [
+      "104"
+    ],
+    "timing": {
+      "description": "24 x 7",
+      "slots": {
+        "0": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "1": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "2": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "3": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "4": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "5": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "6": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        }
+      }
+    },
+    "mode_of_contact": [
+      "phone"
+    ],
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "Assam",
+      "country": "India",
+      "pin_code": "",
+      "lat": 26.0360114,
+      "lon": 90.6049718,
+      "map_url": "https://www.google.co.in/maps/place/Assam/@26.0360114,90.6049718,7z/data=!3m1!4b1!4m5!3m4!1s0x374516c94c312d63:0xd11a73bb736719fb!8m2!3d26.2006043!4d92.9375739"
+    },
+    "emails": [],
+    "websites": [
+      "http://www.nrhmassam.in/sarathi/index.php"
+    ],
+    "befrienders_member": false,
+    "verified": false,
+    "auto_call": true
+  },
+  {
+    "id": "85d3e0f8-2c1d-4275-9403-3efffb95ba82",
+    "name": "Suicide Prevention Helpline",
+    "part_of_country": "east",
+    "phone_numbers": [
+      "18003453225"
+    ],
+    "timing": {
+      "description": "24 x 7",
+      "slots": {
+        "0": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "1": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "2": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "3": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "4": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "5": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "6": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        }
+      }
+    },
+    "mode_of_contact": [
+      "phone",
+      "face-to-face"
+    ],
+    "address": {
+      "street": "Department of Psychiatry, STNM Hospital, NH 31 A, Arithang",
+      "city": "Gangtok",
+      "state": "Sikkim",
+      "country": "India",
+      "pin_code": "737101",
+      "lat": 27.331222,
+      "lon": 88.6120143,
+      "map_url": "https://www.google.co.in/maps/place/STNM+Hospital/@27.331222,88.6120143,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x73a1e0e26e04768c!8m2!3d27.3312221!4d88.6142032"
+    },
+    "emails": [],
+    "websites": [
+      "http://sikkimhealth.gov.in/files/stnm_doctors.htm"
+    ],
+    "befrienders_member": false,
+    "verified": false,
+    "auto_call": true
+  },
+  {
+    "id": "8531bbeb-d82b-41a8-947a-01874d986806",
+    "name": "Sumaitri",
+    "part_of_country": "north",
+    "phone_numbers": [
+      "+911123389090"
+    ],
+    "timing": {
+      "description": "Mon - Fri: 2pm - 10pm, Sat - Sun: 10am - 10pm",
+      "slots": {
+        "0": {
+          "start": "10:00:00",
+          "end": "22:00:00"
+        },
+        "1": {
+          "start": "14:00:00",
+          "end": "22:00:00"
+        },
+        "2": {
+          "start": "14:00:00",
+          "end": "22:00:00"
+        },
+        "3": {
+          "start": "14:00:00",
+          "end": "22:00:00"
+        },
+        "4": {
+          "start": "14:00:00",
+          "end": "22:00:00"
+        },
+        "5": {
+          "start": "14:00:00",
+          "end": "22:00:00"
+        },
+        "6": {
+          "start": "10:00:00",
+          "end": "22:00:00"
+        }
+      }
+    },
+    "mode_of_contact": [
+      "phone",
+      "letter",
+      "face-to-face"
+    ],
+    "address": {
+      "street": "Aradhana Hostel Complex, No 1, Bhagwan Das Lane",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "country": "India",
+      "pin_code": "110001",
+      "lat": 28.6236118,
+      "lon": 77.2343226,
+      "map_url": "https://www.google.co.in/maps/place/Aradhana+Hostel/@28.6236118,77.2343226,17z/data=!3m1!4b1!4m5!3m4!1s0x390ce2d4e8995bb1:0xe9c7fa66fb86c423!8m2!3d28.6236118!4d77.2365113"
+    },
+    "emails": [
+      "feelingsuicidal@sumaitri.net",
+      "sumaitringo@yahoo.in"
+    ],
+    "websites": [
+      "http://sumaitri.net/"
+    ],
+    "befrienders_member": true,
+    "verified": false,
+    "auto_call": true
+  },
+  {
+    "id": "4fc67fa8-7f32-4a29-bb5a-666ab86b64e0",
+    "name": "Snehi - Disha (Pre-exam)",
+    "part_of_country": "north",
+    "phone_numbers": [
+      "+911165978181"
+    ],
+    "timing": {
+      "description": "24 x 7 (Feb & Mar)",
+      "slots": {
+        "0": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "1": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "2": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "3": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "4": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "5": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "6": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        }
+      }
+    },
+    "mode_of_contact": [
+      "phone",
+      "face-to-face"
+    ],
+    "address": {
+      "street": "B-140, 1st Floor, Vasant Kunj Enclave",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "country": "India",
+      "pin_code": "110070",
+      "lat": 28.5270362,
+      "lon": 77.1337441,
+      "map_url": "https://www.google.co.in/maps/place/Snehi/@28.5270362,77.1337441,17z/data=!3m1!4b1!4m5!3m4!1s0x390ce236eaaaaaab:0xab63e4b366cf4812!8m2!3d28.5270362!4d77.1359328"
+    },
+    "emails": [
+      "snehi.india@gmail.com"
+    ],
+    "websites": [
+      "http://www.snehi.org"
+    ],
+    "befrienders_member": false,
+    "verified": false,
+    "auto_call": true
+  },
+  {
+    "id": "35153a4d-c1a5-4fb2-8c29-b3968c785dde",
+    "name": "Snehi - Hopeline (Pre and post result)",
+    "part_of_country": "north",
+    "phone_numbers": [
+      "+911165978181"
+    ],
+    "timing": {
+      "description": "24 x 7 (Apr & May)",
+      "slots": {
+        "0": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "1": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "2": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "3": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "4": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "5": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "6": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        }
+      }
+    },
+    "mode_of_contact": [
+      "phone",
+      "face-to-face"
+    ],
+    "address": {
+      "street": "B-140, 1st Floor, Vasant Kunj Enclave",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "country": "India",
+      "pin_code": "110070",
+      "lat": 28.5270362,
+      "lon": 77.1337441,
+      "map_url": "https://www.google.co.in/maps/place/Snehi/@28.5270362,77.1337441,17z/data=!3m1!4b1!4m5!3m4!1s0x390ce236eaaaaaab:0xab63e4b366cf4812!8m2!3d28.5270362!4d77.1359328"
+    },
+    "emails": [
+      "snehi.india@gmail.com"
+    ],
+    "websites": [
+      "http://www.snehi.org"
+    ],
+    "befrienders_member": false,
+    "verified": false,
+    "auto_call": true
+  },
+  {
+    "id": "09f663cd-f953-44b9-a9ff-2970ed3d7090",
+    "name": "Snehi - General",
+    "part_of_country": "north",
+    "phone_numbers": [
+      "+911165978181"
+    ],
+    "timing": {
+      "description": "Daily: 2pm - 6pm",
+      "slots": {
+        "0": {
+          "start": "14:00:00",
+          "end": "18:00:00"
+        },
+        "1": {
+          "start": "14:00:00",
+          "end": "18:00:00"
+        },
+        "2": {
+          "start": "14:00:00",
+          "end": "18:00:00"
+        },
+        "3": {
+          "start": "14:00:00",
+          "end": "18:00:00"
+        },
+        "4": {
+          "start": "14:00:00",
+          "end": "18:00:00"
+        },
+        "5": {
+          "start": "14:00:00",
+          "end": "18:00:00"
+        },
+        "6": {
+          "start": "14:00:00",
+          "end": "18:00:00"
+        }
+      }
+    },
+    "mode_of_contact": [
+      "phone",
+      "face-to-face"
+    ],
+    "address": {
+      "street": "B-140, 1st Floor, Vasant Kunj Enclave",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "country": "India",
+      "pin_code": "110070",
+      "lat": 28.5270362,
+      "lon": 77.1337441,
+      "map_url": "https://www.google.co.in/maps/place/Snehi/@28.5270362,77.1337441,17z/data=!3m1!4b1!4m5!3m4!1s0x390ce236eaaaaaab:0xab63e4b366cf4812!8m2!3d28.5270362!4d77.1359328"
+    },
+    "emails": [
+      "snehi.india@gmail.com"
+    ],
+    "websites": [
+      "http://www.snehi.org"
+    ],
+    "befrienders_member": false,
+    "verified": false,
+    "auto_call": true
+  },
+  {
+    "id": "12788553-a2d7-45a0-8010-b632c8710d42",
+    "name": "Margadarshan - St Stephens Hospital",
+    "part_of_country": "north",
+    "phone_numbers": [
+      "+91113977930",
+      "+91113982978"
+    ],
+    "timing": {
+      "description": "Mon - Fri: 2pm - 4.30pm",
+      "slots": {
+        "0": null,
+        "1": {
+          "start": "14:00:00",
+          "end": "16:30:00"
+        },
+        "2": {
+          "start": "14:00:00",
+          "end": "16:30:00"
+        },
+        "3": {
+          "start": "14:00:00",
+          "end": "16:30:00"
+        },
+        "4": {
+          "start": "14:00:00",
+          "end": "16:30:00"
+        },
+        "5": {
+          "start": "14:00:00",
+          "end": "16:30:00"
+        },
+        "6": null
+      }
+    },
+    "mode_of_contact": [
+      "phone",
+      "face-to-face"
+    ],
+    "address": {
+      "street": "Department of Psychiatry, St. Stephen's Hospital, St. Stephen's Hospital Marg, Tis Hazari",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "country": "India",
+      "pin_code": "110054",
+      "lat": 28.666978,
+      "lon": 77.2131853,
+      "map_url": "https://www.google.co.in/maps/place/St.+Stephen's+Hospital/@28.666978,77.2131853,17z/data=!3m1!4b1!4m5!3m4!1s0x390cfd750e497c97:0x7ff0788f8a9fb671!8m2!3d28.666978!4d77.215374"
+    },
+    "emails": [
+      "ssh@vsnl.com"
+    ],
+    "websites": [
+      "http://www.ststephenshospital.org/psychiatry.html"
+    ],
+    "befrienders_member": false,
+    "verified": false,
+    "auto_call": false
+  },
+  {
+    "id": "67d0f260-b02a-461e-9712-f653b9d4edc7",
+    "name": "Asha Helpline",
+    "part_of_country": "north",
+    "phone_numbers": [
+      "+911722735436",
+      "+911722735446"
+    ],
+    "timing": {
+      "description": "Mon - Sat: 8am - 7pm",
+      "slots": {
+        "0": null,
+        "1": {
+          "start": "08:00:00",
+          "end": "19:00:00"
+        },
+        "2": {
+          "start": "08:00:00",
+          "end": "19:00:00"
+        },
+        "3": {
+          "start": "08:00:00",
+          "end": "19:00:00"
+        },
+        "4": {
+          "start": "08:00:00",
+          "end": "19:00:00"
+        },
+        "5": {
+          "start": "08:00:00",
+          "end": "19:00:00"
+        },
+        "6": {
+          "start": "08:00:00",
+          "end": "19:00:00"
+        }
+      }
+    },
+    "mode_of_contact": [
+      "phone"
+    ],
+    "address": {
+      "street": "",
+      "city": "Chandigarh",
+      "state": "Chandigarh",
+      "country": "India",
+      "pin_code": "",
+      "lat": 30.7350626,
+      "lon": 76.6934883,
+      "map_url": "https://www.google.co.in/maps/place/Chandigarh/@30.7350626,76.6934883,12z/data=!3m1!4b1!4m5!3m4!1s0x390fed0be66ec96b:0xa5ff67f9527319fe!8m2!3d30.7333148!4d76.7794179"
+    },
+    "emails": [],
+    "websites": [
+      "http://admser.chd.nic.in/uploadfiles/press/pressnote/pr5312.pdf"
+    ],
+    "befrienders_member": false,
+    "verified": false,
+    "auto_call": false
+  },
+  {
+    "id": "8062cce6-9e5e-46f6-a8ef-f17f6b1e23ee",
+    "name": "104 Medical Helpline",
+    "part_of_country": "north",
+    "phone_numbers": [
+      "104"
+    ],
+    "timing": {
+      "description": "24 x 7",
+      "slots": {
+        "0": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "1": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "2": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "3": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "4": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "5": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "6": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        }
+      }
+    },
+    "mode_of_contact": [
+      "phone"
+    ],
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "Punjab",
+      "country": "India",
+      "pin_code": "",
+      "lat": 30.9988632,
+      "lon": 73.157004,
+      "map_url": "https://www.google.co.in/maps/place/Punjab/@30.9988632,73.157004,7z/data=!3m1!4b1!4m5!3m4!1s0x391964aa569e7355:0x8fbd263103a38861!8m2!3d31.1471305!4d75.3412179"
+    },
+    "emails": [],
+    "websites": [
+      "http://1905.punjab.gov.in/104_Note.pdf"
+    ],
+    "befrienders_member": false,
+    "verified": false,
+    "auto_call": false
+  },
+  {
+    "id": "bd2f7572-c516-4b02-8260-4f5d9bf1b742",
+    "name": "HOPE Helpline for Students",
+    "part_of_country": "north",
+    "phone_numbers": [
+      "+917442333666",
+      "+917442414141"
+    ],
+    "timing": {
+      "description": "24 x 7",
+      "slots": {
+        "0": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "1": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "2": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "3": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "4": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "5": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "6": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        }
+      }
+    },
+    "mode_of_contact": [
+      "phone"
+    ],
+    "address": {
+      "street": "",
+      "city": "Kota",
+      "state": "Rajasthan",
+      "country": "India",
+      "pin_code": "",
+      "lat": 25.3898205,
+      "lon": 75.7808335,
+      "map_url": "https://www.google.co.in/maps/place/Kota,+Rajasthan/@25.3898205,75.7808335,10z/data=!3m1!4b1!4m5!3m4!1s0x396f9b30c41bb44d:0x5f5c103200045588!8m2!3d25.2138156!4d75.8647527"
+    },
+    "emails": [],
+    "websites": [],
+    "befrienders_member": false,
+    "verified": false,
+    "auto_call": false
+  },
+  {
+    "id": "9585f71d-b346-4ba7-95ce-5546e12fa961",
+    "name": "104 Medical Advice & Helpline",
+    "part_of_country": "north",
+    "phone_numbers": [
+      "104"
+    ],
+    "timing": {
+      "description": "24 x 7",
+      "slots": {
+        "0": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "1": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "2": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "3": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "4": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "5": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "6": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        }
+      }
+    },
+    "mode_of_contact": [
+      "phone"
+    ],
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "Rajasthan",
+      "country": "India",
+      "pin_code": "",
+      "lat": 26.5575868,
+      "lon": 69.3777548,
+      "map_url": "https://www.google.co.in/maps/place/Rajasthan/@26.5575868,69.3777548,6z/data=!3m1!4b1!4m5!3m4!1s0x396a3efaf7e30e37:0xb52b9b4506c088e5!8m2!3d27.0238036!4d74.2179326"
+    },
+    "emails": [],
+    "websites": [
+      "http://nrhmrajasthan.nic.in/Toll%20Free%20104.htm"
+    ],
+    "befrienders_member": false,
+    "verified": false,
+    "auto_call": false
+  },
+  {
+    "id": "5d13bb3f-a778-4ebc-9271-5fe4b1cf4bdf",
+    "name": "Kashmir Lifeline & Health Centre",
+    "part_of_country": "north",
+    "phone_numbers": [
+      "18001807020"
+    ],
+    "timing": {
+      "description": "Sun - Thur: 10am - 5pm",
+      "slots": {
+        "0": {
+          "start": "10:00:00",
+          "end": "17:00:00"
+        },
+        "1": {
+          "start": "10:00:00",
+          "end": "17:00:00"
+        },
+        "2": {
+          "start": "10:00:00",
+          "end": "17:00:00"
+        },
+        "3": {
+          "start": "10:00:00",
+          "end": "17:00:00"
+        },
+        "4": {
+          "start": "10:00:00",
+          "end": "17:00:00"
+        },
+        "5": null,
+        "6": null
+      }
+    },
+    "mode_of_contact": [
+      "phone",
+      "face-to-face"
+    ],
+    "address": {
+      "street": "M.E.T Lane Rawath Pora Baghat Chowk, Baghat, Rawalpora",
+      "city": "Srinagar",
+      "state": "Jammu & Kashmir",
+      "country": "India",
+      "pin_code": "190005",
+      "lat": 34.0424186,
+      "lon": 74.8046422,
+      "map_url": "https://www.google.co.in/maps/place/Kashmir+Lifeline+and+Health+Centre/@34.0424186,74.8046422,17z/data=!3m1!4b1!4m5!3m4!1s0x38e18e4ad7e3dab1:0x3f126912b6f10c21!8m2!3d34.0424186!4d74.8068309"
+    },
+    "emails": [],
+    "websites": [
+      "http://www.kashmirlifeline.org"
+    ],
+    "befrienders_member": false,
+    "verified": true,
+    "auto_call": false
+  },
+  {
+    "id": "0eb9c3d6-b3b4-42cc-a6dd-c94a222f7ada",
+    "name": "The Sara Helpline",
+    "part_of_country": "north",
+    "phone_numbers": [
+      "+919697606060"
+    ],
+    "timing": {
+      "description": "Daily: 10am - 5pm",
+      "slots": {
+        "0": {
+          "start": "10:00:00",
+          "end": "17:00:00"
+        },
+        "1": {
+          "start": "10:00:00",
+          "end": "17:00:00"
+        },
+        "2": {
+          "start": "10:00:00",
+          "end": "17:00:00"
+        },
+        "3": {
+          "start": "10:00:00",
+          "end": "17:00:00"
+        },
+        "4": {
+          "start": "10:00:00",
+          "end": "17:00:00"
+        },
+        "5": {
+          "start": "10:00:00",
+          "end": "17:00:00"
+        },
+        "6": {
+          "start": "10:00:00",
+          "end": "17:00:00"
+        }
+      }
+    },
+    "mode_of_contact": [
+      "phone",
+      "face-to-face"
+    ],
+    "address": {
+      "street": "106, Apna Vihar, Kunjwani",
+      "city": "Jammu Tawi",
+      "state": "Jammu & Kashmir",
+      "country": "India",
+      "pin_code": "180010",
+      "lat": 32.661898,
+      "lon": 74.8757342,
+      "map_url": "https://www.google.co.in/maps/place/The+-+Sara/@32.661898,74.8757342,17z/data=!3m1!4b1!4m5!3m4!1s0x391e9ca055555529:0x1c04cfa3947cbe09!8m2!3d32.661898!4d74.8779229"
+    },
+    "emails": [
+      "mail@thesara.org.in"
+    ],
+    "websites": [
+      "http://thesara.org.in"
+    ],
+    "befrienders_member": false,
+    "verified": true,
+    "auto_call": true
+  },
+  {
+    "id": "9cb562a9-85f4-4f24-9da5-669cf376e7da",
+    "name": "104 Arogyaseva",
+    "part_of_country": "central",
+    "phone_numbers": [
+      "104"
+    ],
+    "timing": {
+      "description": "24 x 7",
+      "slots": {
+        "0": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "1": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "2": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "3": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "4": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "5": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        },
+        "6": {
+          "start": "00:00:00",
+          "end": "23:59:59"
+        }
+      }
+    },
+    "mode_of_contact": [
+      "phone"
+    ],
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "Chattisgarh",
+      "country": "India",
+      "pin_code": "",
+      "lat": 20.9359381,
+      "lon": 80.0752913,
+      "map_url": "https://www.google.co.in/maps/place/Chhattisgarh/@20.9359381,80.0752913,7z/data=!3m1!4b1!4m5!3m4!1s0x3a261f16c67a8bad:0x5c23f412fb179d95!8m2!3d21.2786567!4d81.8661442"
+    },
+    "emails": [],
+    "websites": [],
+    "befrienders_member": false,
+    "verified": false,
+    "auto_call": true
+  },
+  {
+    "id": "227343af-edff-48ca-bdd7-8b75bfc73b01",
+    "name": "1253 Sanjivani",
+    "part_of_country": "central",
+    "phone_numbers": [
+      "1253",
+      "+917612626622"
+    ],
+    "timing": {
+      "description": "",
+      "slots": {
+        "0": null,
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null
+      }
+    },
+    "mode_of_contact": [
+      "phone"
+    ],
+    "address": {
+      "street": "",
+      "city": "Jabalpur",
+      "state": "Madhya Pradesh",
+      "country": "India",
+      "pin_code": "",
+      "lat": 23.1756796,
+      "lon": 79.8987121,
+      "map_url": "https://www.google.co.in/maps/place/Jabalpur,+Madhya+Pradesh/@23.1756796,79.8987121,12z/data=!3m1!4b1!4m5!3m4!1s0x3981ae1a0fb6a97d:0x44020616bc43e3b9!8m2!3d23.181467!4d79.9864071"
+    },
+    "emails": [
+      "sanjivanijabalpur@gmail.com"
+    ],
+    "websites": [],
+    "befrienders_member": false,
+    "verified": false,
+    "auto_call": false
+  },
+  {
+    "id": "e271b879-a957-4c2d-bec0-5ad8b75bad41",
+    "name": "Jeevan Aadhar - Helpline for Adolescents",
+    "part_of_country": "central",
+    "phone_numbers": [
+      "18002331250"
+    ],
+    "timing": {
+      "description": "Daily (except National Holidays): 9am - 5pm",
+      "slots": {
+        "0": {
+          "start": "09:00:00",
+          "end": "17:00:00"
+        },
+        "1": {
+          "start": "09:00:00",
+          "end": "17:00:00"
+        },
+        "2": {
+          "start": "09:00:00",
+          "end": "17:00:00"
+        },
+        "3": {
+          "start": "09:00:00",
+          "end": "17:00:00"
+        },
+        "4": {
+          "start": "09:00:00",
+          "end": "17:00:00"
+        },
+        "5": {
+          "start": "09:00:00",
+          "end": "17:00:00"
+        },
+        "6": {
+          "start": "09:00:00",
+          "end": "17:00:00"
+        }
+      }
+    },
+    "mode_of_contact": [
+      "phone"
+    ],
+    "address": {
+      "street": "",
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "country": "India",
+      "pin_code": "",
+      "lat": 23.1993477,
+      "lon": 77.2658038,
+      "map_url": "https://www.google.co.in/maps/place/Bhopal,+Madhya+Pradesh/@23.1993477,77.2658038,11z/data=!3m1!4b1!4m5!3m4!1s0x397c428f8fd68fbd:0x2155716d572d4f8!8m2!3d23.2599333!4d77.412615"
+    },
+    "emails": [
+      "jeevanaadhar1250@gmail.com"
+    ],
+    "websites": [
+      "http://www.aadharcentre.org/aadhar_helpline.php"
+    ],
+    "befrienders_member": false,
+    "verified": true,
+    "auto_call": true
+  }
+]
