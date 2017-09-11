@@ -9,8 +9,11 @@ const key = '@HelplineData:key';
 const versionKey = '@HelplineDataVersion:key';
 
 // File Updates checker
-const versionCheckUrl = '**URL_TO_CHECK_VERSION**';
-const dataUrl = '**URL_TO_FETCH_DATA_JSON**';
+// File Updates checker
+const versionCheckUrl =
+    'https://s3.ap-south-1.amazonaws.com/suicide-helpline-numbers/data/version';
+const dataUrl =
+    'https://s3.ap-south-1.amazonaws.com/suicide-helpline-numbers/data/data.json';
 
 exports.fetchAllData = function(params, callback) {
     if (typeof callback === 'function') {
