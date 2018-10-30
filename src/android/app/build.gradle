@@ -105,17 +105,12 @@ android {
     }
     signingConfigs {
         release {
-            keyAlias 'key0'
-            keyPassword '1234567'
-            storeFile file('../keystore/test_keystore.jks')
-            storePassword '1234567'
-
-            /*if (project.hasProperty('MYAPP_RELEASE_STORE_FILE')) {
+            if (project.hasProperty('MYAPP_RELEASE_STORE_FILE')) {
                 storeFile file(MYAPP_RELEASE_STORE_FILE)
                 storePassword MYAPP_RELEASE_STORE_PASSWORD
                 keyAlias MYAPP_RELEASE_KEY_ALIAS
                 keyPassword MYAPP_RELEASE_KEY_PASSWORD
-            }*/
+            }
         }
     }
     splits {
